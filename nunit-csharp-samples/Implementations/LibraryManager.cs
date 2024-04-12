@@ -12,7 +12,6 @@ public class LibraryManager : ILibraryManager
     public void AddBook(Book book)
     {
         // TODO step 1.
-        // TODO step 2.
     }
 
     /// <summary>
